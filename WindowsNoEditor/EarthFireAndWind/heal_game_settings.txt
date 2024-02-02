@@ -1,0 +1,11 @@
+game0 fire1      fire2inner	
+game1 water_1    water2outer      air1outer refers to itself?
+game2 fire2      fire1inner fire2inner water2inner
+game3 air1       air1outer
+game3 air2       air1outer air2outer  water2outer
+game3 earth2     earth2outer water2outer	
+game4 water2     water1inner water1outer earth1inner	
+game5 earth1     earth1inner                         w
+
+
+
